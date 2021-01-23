@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+body {
+    background-color: rgb(116, 115, 124); 
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    min-height: 90vh;      
+}
+h1{
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: 'Potta One', cursive;
+    color: rgb(39, 40, 43);
+}
+
+#user-interface{
+text-align: center
+}
+#list-name-input{
+    background-color: rgb(175, 223, 231);
+    border: none;
+}
+
+
