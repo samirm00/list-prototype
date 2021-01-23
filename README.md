@@ -1,4 +1,4 @@
-# JS Quiz
+# List manger
 
 
 > A simple website allows the user to create and delete todo lists and add or remove items to each list.
