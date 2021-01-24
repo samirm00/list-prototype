@@ -35,8 +35,6 @@ open the website and create as many `todo list as you want`
 ```js
 'use strict';
 
-"use strict";
-
 import { listPrototype } from "../list-prototype.js";
 import { logger } from "../../lib/logger.js";
 
@@ -50,7 +48,7 @@ export const createNewListHandler = (event) => {
     alert("Please Enter A Todo list!");
     return;
   }
-   document.body.style = "backdrop-filter: blur(2px) ;";
+  
   const newList = Object.create(listPrototype);
   newList.state = {
     header: event.target.value,
@@ -73,7 +71,7 @@ export const createNewListHandler = (event) => {
 
 
 ## Features
-List of features ready and TODOs for future development
+List of features ready and Todos for future development
 
 * 
 * 
