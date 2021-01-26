@@ -18,7 +18,7 @@
 A simple JavaScript website allows the user to create many `TODO lists`, the objective is using `prototypes` to create many objects using `object.create` method.
 
 ## Screenshots
-![Example screenshot](public/assets/Screenshot.png)
+![Example screenshot](public/assets/ScreenShot.png)
 
 ## Technologies
 * JavaScript

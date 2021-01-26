@@ -58,7 +58,7 @@ export const listPrototype = {
     // create input to lists 
     const inputList = document.createElement('input');
     inputList.type ='text';
-    inputList.placeholder = 'Add a new list and click on + '
+    inputList.placeholder = 'Add a new todo and click on + '
     inputList.className ='first-input'
     inputList.id = `${this.state.header}input`;
 
